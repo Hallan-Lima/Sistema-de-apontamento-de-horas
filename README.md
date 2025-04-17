@@ -1,0 +1,1 @@
+Foi desenvolvido esse sistema para o controle de horas associando tarefas ou clientes, para o controle em casos de Freelancer por hora. Tendo em vista que hoje as plataformas cobram por uma funcionalidade simples ou colocam limitações que as vezes acabam atrapalhando Freelancer iniciantes.
